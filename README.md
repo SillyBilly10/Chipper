@@ -1,2 +1,2 @@
 # game
-3D-platformer (hopefully)
+3D-platformer for all ages (hopefully)
