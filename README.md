@@ -1,4 +1,4 @@
-# game
+# chippergame
 3D-platformer for all ages (hopefully)
 
 Discord server: https://discord.gg/3YnZyATjUm
